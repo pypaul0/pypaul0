@@ -1,7 +1,7 @@
 # Bem-vindo ao meu perfil! 👋
  <div style="display: block-inline;">
-  <img src="https://github-readme-stats.vercel.app/api?username=PauloRobertoDSF&theme=dark&show_icons=true" height=170px>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRobertoDSF&theme=dark&layout=compact" height=170px>
+  <img src="https://github-readme-stats.vercel.app/api?username=PauloRobertoDSF&theme=dark&show_icons=true" height=140px>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRobertoDSF&theme=dark&layout=compact" height=140px>
  </div>
  <hr>
  <div style="display: block-inline;">
